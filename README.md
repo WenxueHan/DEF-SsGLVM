@@ -27,3 +27,10 @@ The validation and test sets are fully labeled and are used for hyperparameter s
 Hyperparameters are selected using validation RMSE, with grid search for the synthetic case and differential evolution for the industrial cases.
 
 Dataset-specific split indices, preprocessing settings, and selected model configurations are provided in `data/` and `configs/`.
+
+Tested environment:
+
+- Python: 3.10
+- PyTorch: 2.1.1
+- Operating system: Windows 11, 64-bit
+- Hardware: CPU: Intel Core i5-12400F, 2.50 GHz; Random Access Memory: 32 GB; Graphics Card: NVIDIA GeForce RTX 4060 (8 GB).
