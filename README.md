@@ -34,3 +34,9 @@ Tested environment:
 - PyTorch: 2.1.1
 - Operating system: Windows 11, 64-bit
 - Hardware: CPU: Intel Core i5-12400F, 2.50 GHz; Random Access Memory: 32 GB; Graphics Card: NVIDIA GeForce RTX 4060 (8 GB).
+
+- ## Data availability
+
+The synthetic dataset is included in this repository. However, the industrial datasets, cannot be publicly released due to confidentiality requirements imposed by the data-owning companies.
+
+Accordingly, the raw and processed industrial data, dataset-specific sample indices, and any other files containing proprietary information are not included in this repository. The source code, model configurations, training settings, and experimental protocols are provided to facilitate the reproducibility of the proposed method. Access to the industrial datasets may be possible subject to the approval of the corresponding data owners.
